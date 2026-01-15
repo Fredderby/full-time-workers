@@ -153,7 +153,7 @@ class FullTimeWorkersForm:
         """Display submission button and logic"""
         with st.container(border=True):
             submit_button = st.button(
-                    "🚀 **SUBMIT REGISTRATION**",
+                    "🚀 **SUBMIT**",
                     type="primary",
                     use_container_width=True
                 )
